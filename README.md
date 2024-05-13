@@ -15,7 +15,9 @@ My name is Ian Brown and I am a recent graduate of Grinnell College. At grinnell
 
 # Contact Information:
 Thank you for reaching out. Here’s how you can get in touch with me: <br />
+<br />
 **Email:** Brownian15033@gmail.com <br />
+<br />
 **Please Note:** <br />
 _I appreciate genuine communication and meaningful conversations. If you're contacting me, please do so with the intent to engage in a productive dialogue. I kindly ask not to be contacted for advertising or spam purposes. Your respect for this request is greatly appreciated._
 
