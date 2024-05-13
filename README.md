@@ -14,8 +14,8 @@ My name is Ian Brown and I am a recent graduate of Grinnell College. At grinnell
 - CSC-213 Final Project (Peer-to-Peer Encrypted Chat)
 
 # Contact Information:
-Thank you for reaching out. Here’s how you can get in touch with me: /n
-**Email:** Brownian15033@gmail.com /n
-**Please Note:** /n
+Thank you for reaching out. Here’s how you can get in touch with me: <br />
+**Email:** Brownian15033@gmail.com <br />
+**Please Note:** <br />
 _I appreciate genuine communication and meaningful conversations. If you're contacting me, please do so with the intent to engage in a productive dialogue. I kindly ask not to be contacted for advertising or spam purposes. Your respect for this request is greatly appreciated._
 
