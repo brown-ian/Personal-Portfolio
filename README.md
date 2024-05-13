@@ -20,7 +20,7 @@ My name is Ian Brown and I am a recent graduate of Grinnell College. At grinnell
 # Projects
 - CSC-324 Individual Project (Netflix User Data Visualized)
 - CSC-324 Group Project (GCIEL)
-- CSC-312 Final Course Project (TypeScript to Python Translator)
+- CSC-312 Final Course Project (TypeScript to Python Compiler)
 - CSC-213 Final Project (Peer-to-Peer Encrypted Chat)
 
 # Contact Information:
