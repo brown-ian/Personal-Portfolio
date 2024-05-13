@@ -1,4 +1,5 @@
 # Peer-to-Peer Encrypted Chat
+This is my final project for Grinnell College's CSC-213 course. 
 ## Brief Description of the Chat: 
 This chat room is designed around a regular peer-to-peer chat connection between different servers. The lead server creates the chat room, activates the encryption, then invites others to join. Once other join, the chat remains encrypted for the new users until they are given the decryption phrase from the lead. This only decrypts the chat for the user who activated this command. Others remain encrypted. All future communication between decrypted user and lead will be un-encrypted.  
 ## Use Cases:
