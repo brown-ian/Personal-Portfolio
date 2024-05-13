@@ -1,0 +1,12 @@
+﻿Date,Activity,Time_start,Time_end,Total_time,Small_Description
+1/25/24,Creating Log File,9:45,9:47,2,Created and formated the log file for my individual project. 
+1/30/24,Data Search,16:56,17:26,30,"found two datasets, one that tracked what movies were added to netflix for different locations around the world, and another that tracked individuals and their streaming selections. "
+2/6/24,Data Work,14:30,17:00,150,Worked on manipulation of data as well as possibly ways to sort and create specific data points. 
+2/12/24,Data Work,19:45,20:30,45,Worked on manipulation of data as well as possibly ways to sort and create specific data points. 
+2/15/24,Data Work,9:15,11:00,105,Worked on and completed the describing your dataset task
+2/28/24,Shiny Work,14:20,15:30,70,Worked on making the shiny app and beginning to add some visualizations
+2/29/24,Shiny Work,12:30,15:50,200,"Started to work on the second shiny dev, a scatterplot with use of the titles"
+2/29/24,Shiny Work,20:00,22:00,120,"Finished figure 3 and 4, a heatmap of the watch times, and the movie popularity line chart. "
+3/6/24,Shiny Work,18:00,22:00,240,Updated figure 3 to represent the final product I wish to submitt.
+3/7/24,Shiny Work,14:00,22:00,480,"Finished the interactions with figure 4, now have problem with figure 3 color bar but will try and fix that "
+3/8/24,Shiny Work,10:30,11:00,30,Began the pie graph

@@ -1,0 +1,44 @@
+---
+title: "Projectworkbook"
+output: html_document
+author: "Ian Brown"
+date: "2/21/2024"
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+Written/ Online sources: N/A
+Help Obtained: N/A
+Academic Honesty: I confirm that the above list of sources is complete AND that I
+  have not talked to anyone else about the solution to this problem.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```
+getwd()
+setwd('/Users/browni/Documents/CSC-324/GitHub/NetflixProject')
+getwd()
+
+library(readr)
+library(dplyr)
+
+indy <- read.csv("Ind_User_streaming_data_netflix.csv")
+Titles <- read.csv("netflic_titles_project_data.csv")
+
+Titles_Cleaned <- filter(Titles, country == "United Kingdom" & date_added > "1/1/2017" & type == "Movie")
+indy_Cleaned <- filter(indy, duration > 600)
+merged_data <- merge(Titles_Cleaned, indy_Cleaned, by = "title")
+
+
+indy_Cleaned %>% as_tibble() %>% arrange(date) %>% head(3)
+Titles_Cleaned %>% as_tibble() %>% arrange(date_added) %>% head(3)
+merged_data %>% as_tibble() %>% arrange(date) %>% head(10)
+
+```
+
+
+
+
+
