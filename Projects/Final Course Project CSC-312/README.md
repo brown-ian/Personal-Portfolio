@@ -1,5 +1,5 @@
 # Typescript-to-Python Compiler Design
-
+This is my final project for Grinnell College's CSC-312 course. 
 ## Brief Description of Language: 
 This compiler project will be fairly straight forward. I want to create a compilar that will be written in typescript as to follow the class closely, but will also be able to translte into python code. This will functionally allow one to perform the same functions as in python but within the typescript framework. 
 ## Use Cases:
