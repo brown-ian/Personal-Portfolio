@@ -1,4 +1,4 @@
-# Initial Project Design Proposal
+# Typescript-to-Python Compiler Design
 
 ## Brief Description of Language: 
 This compiler project will be fairly straight forward. I want to create a compilar that will be written in typescript as to follow the class closely, but will also be able to translte into python code. This will functionally allow one to perform the same functions as in python but within the typescript framework. 
