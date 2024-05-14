@@ -26,7 +26,7 @@ In charge of money management and operations, including company accounting and p
 - Author of timelines detailing the load and unload process of crude and refined vegetable oil and glycerin.
 - Part-time plant control room operator. Working to maintain operation of the plant refining process and upkeep of equipment. 
 #### All Ford LLC, Stratford, CT (Dec. 2020-Feb. 2021, Dec. 2021-Feb. 2022, Dec. 2022-Feb. 2023)
-**Apprentice Diesel Mechanic ** <br />
+**Apprentice Diesel Mechanic** <br />
 - Conducted daily operations on diesel vehicles including oil changes, tire rotation, and other basic engine maintenance.
 - Conducted PCM tests on new shop arrivals and conducted quality checks on all vehicles after the vehicle’s problem was resolved.
   
