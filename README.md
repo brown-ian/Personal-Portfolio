@@ -56,7 +56,6 @@ Initial repository for CSC324 Group Project with GCIEL. <br />
 Real Data on player interaction can be found in the "Real Data Visualizations" folder under the name "RealShipData.csv"
 <br />
 **Demo Video:** https://youtu.be/UH-14nsi-n8 <br />
-
 **My Contributions:**
 Over the course of this project, I was a part time programmer, part time expereince tester, and a part time co-author. I helped to program the initial versions of the visualizations, then focused the majority of my eneder on working on what we called the "Future Vision." This was requested by our community partner in order to get new user feedback on the product. This required testing the experience then creating a document detailing the possitives and negatives of teh Viking Longship experience. This all resulted in a comprehensive product that provided an application with the ability to analyze player data collected from the experience, as well as provide a viable plan for the future steps. 
 
