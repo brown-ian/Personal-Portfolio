@@ -48,6 +48,14 @@ I found interest in this topic due to my use of streaming services. I was always
 Moving forward, this data could be expanded and turned into a predictive algorithm. This would require more in-depth analysis of genre, actors, movie lenghth, etc. However, with this information, one could predict what films would perform the best and bring in the most viewers for a streaming service.<br />  
 
 ### **2. CSC-324 Group Project (GCIEL)**
+**CSC324-GCIEL** <br />
+Initial repository for CSC324 Group Project with GCIEL. <br /> 
+**Community Partner:** Dr. David Neville <br />
+**Students:** Ian Brown, Haobo Chen, Josh Sutton, Kelton Watts, Ethan Yuen <br />
+**Use the app version working with real data here:** https://synkronizing.shinyapps.io/ShipAssessment/ <br />
+Real Data on player interaction can be found in the "Real Data Visualizations" folder under the name "RealShipData.csv"
+<br />
+**Demo Video:** https://youtu.be/UH-14nsi-n8 
 
 ### **3. CSC-312 Final Course Project (TypeScript to Python Compiler)**
 **Typescript-to-Python Compiler Design**<br />
