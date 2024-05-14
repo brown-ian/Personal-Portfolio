@@ -35,7 +35,7 @@ This is my individual project for Grinnell College's CSC-324 course.<br />
 **Accessing App:** <br />
 Visit: https://brownian.shinyapps.io/final_indy_project_app/<br />
 
-**Brief Description of the Project: ** <br />
+**Brief Description of the Project:** <br />
 The premise of this project is to learn how to use the R language as well as the shinyapps interface to visualize datasets. The datasets that I chose to use collected data from UK Netflix users. I paired this with the titles avaiable on Netflix during the time of the study, and correlated what times, dates, and movied were the most watched across the specified time period. 
 
 **Use Cases:** <br />
@@ -78,7 +78,7 @@ Moving forward, the idea would be to complete the compiler in its entirety. This
 **Peer-to-Peer Encrypted Chat**<br />
 This is my final project for Grinnell College's CSC-213 course. <br />
 
-**Brief Description of the Chat: **<br />
+**Brief Description of the Chat:** <br />
 This chat room is designed around a regular peer-to-peer chat connection between different servers. The lead server creates the chat room, activates the encryption, then invites others to join. Once other join, the chat remains encrypted for the new users until they are given the decryption phrase from the lead. This only decrypts the chat for the user who activated this command. Others remain encrypted. All future communication between decrypted user and lead will be un-encrypted.  <br />
 
 **Use Cases:**<br />
@@ -87,7 +87,7 @@ The use for this application is derived from the security layer of chat groups. 
 **Personal Interest**<br />
 Character manipulation has always been an interest of mine, and one thing I loved to do early in my programming career was to manipulate texts to find certain words, sayings, or just to count the times a character was used. I also love to solve puzzles and a part of that is creating puzzles. Therefore, when the chance came to create an encrypted chat, that would require in-depth opperating system knowledge as well as problem solving skills, I jumped at the opportunity. <br />
 
-**The Next Steps**<br />
+**The Next Steps** <br />
 Moving forward, the idea could be applied to a bigger scale. This would involve a propper UI/IX interface to run the chat from, as well as a much more in-depth and creative encryption method.  <br />
 
 
