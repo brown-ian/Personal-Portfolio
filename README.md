@@ -1,10 +1,18 @@
 # Personal-Portfolio
 My name is Ian Brown. This is my personal portfolio.
 
-# About Me
+## About Me
 My name is Ian Brown and I am a recent graduate of Grinnell College. At grinnell I double majored in Computer Science and Economics. Outside of class I practiced and played baseball for the Grinnell Pioneers. I played first base for the Pio's for four years. While in class, I gained a love for problem solving and data analysis. This is something I picked up which studying in my focused disciplines. 
 
-# Skills
+## EDUCATION:                                                                                                                                               
+Grinnell College, Grinnell, IA (September 2020 – Present) Class of 2024
+Bachelor of Arts in Computer Science and Economics 
+- **Relevant Courses in Economics**: Managerial Economics, Microeconomics, Macroeconomics, Money and Banking Economics, Econometrics, Corporate Finance, and Corporate Taxation.
+- **Relevant Courses in Computer Science**: Functional Problem Solving (Scheme Language), Computer Science Imperative Problem Solving (Language C), Computer Science Object Oriented Problem Solving and Data Structure/ Algorithm (Language Java), Discrete Structures in Mathematics, Analysis of Algorithms, and Operating Systems and Parallel Algorithms (C Language), Compilers and High-level language (Typescript), and Formal Languages and Automata.
+- **Athletics:** Division III Baseball at Grinnell College, Team Leader, First Baseman. Midwest Conference player of the week, and Pioneers most improved player 2021-2022.
+- **Academic Highlights:** Junior year GPA: 3.33, Senior year fall GPA: 3.753
+
+## Skills
 - **Programing Proficiency:** I am proficient in Scheme language, C, C++, C#, Java, Typescript, and R.
 - **Problem Solving Skills:** I have the ability to analyze problems quickly and provide efficient solutions.
 - **Data Structures and Algorithms:** I have an in-depth understanding of fundamental data structures and algorithms given my success in the Computer Science department at Grinnell College.
@@ -17,13 +25,13 @@ My name is Ian Brown and I am a recent graduate of Grinnell College. At grinnell
 - **Critical Thinking and Creativity:** I am able to think criticaly, quickly, and precisely which allows me to come up with innovative solutions to difficult problems.
 - **Learning:** I am able to learn quickly which allows me to keep up with new trends and technologies in the field.  
 
-# Projects
+## Projects
 - CSC-324 Individual Project (Netflix User Data Visualized)
 - CSC-324 Group Project (GCIEL)
 - CSC-312 Final Course Project (TypeScript to Python Compiler)
 - CSC-213 Final Project (Peer-to-Peer Encrypted Chat)
 
-# Contact Information:
+## Contact Information:
 Thank you for reaching out. Here’s how you can get in touch with me: <br />
 <br />
 **Email:** Brownian15033@gmail.com <br />
