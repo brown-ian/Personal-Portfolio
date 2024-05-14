@@ -1,3 +1,7 @@
+title: My Resume
+layout: page
+filename: RESUME.md
+
 # Ian Brown
 ### 150 Holmes Avenue, Darien, CT 06820 | brownian@grinnell.edu | 203-559-4093
 
