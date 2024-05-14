@@ -28,7 +28,7 @@ Bachelor of Arts in Computer Science and Economics
 
 
 ## Projects
-### **CSC-324 Individual Project (Netflix User Data Visualized)**
+### **1. CSC-324 Individual Project (Netflix User Data Visualized)**
 #### Understanding Netflix User Data in the UK
 This is my individual project for Grinnell College's CSC-324 course. 
 #### Accessing App:
@@ -42,10 +42,10 @@ I found interest in this topic due to my use of streaming services. I was always
 #### The Next Steps
 Moving forward, this data could be expanded and turned into a predictive algorithm. This would require more in-depth analysis of genre, actors, movie lenghth, etc. However, with this information, one could predict what films would perform the best and bring in the most viewers for a streaming service.  
 
-### **CSC-324 Group Project (GCIEL)**
+### **2. CSC-324 Group Project (GCIEL)**
 
 
-### **CSC-312 Final Course Project (TypeScript to Python Compiler)**
+### **3. CSC-312 Final Course Project (TypeScript to Python Compiler)**
 #### Typescript-to-Python Compiler Design
 This is my final project for Grinnell College's CSC-312 course. 
 #### Brief Description of Language: 
@@ -58,7 +58,7 @@ This peaked my interest heavily when it was discussed in class this past week. A
 Moving forward, the idea would be to complete the compiler in its entirety. This would mean completing the required functions agreement, and furthermore, continuing on and adding prototype based objects. 
 
 
-### **CSC-213 Final Project (Peer-to-Peer Encrypted Chat)**
+### **4. CSC-213 Final Project (Peer-to-Peer Encrypted Chat)**
 #### Peer-to-Peer Encrypted Chat
 This is my final project for Grinnell College's CSC-213 course. 
 #### Brief Description of the Chat: 
